@@ -1,0 +1,9 @@
+{
+  "name": "movie_site",
+  "description": "Movie Website App",
+  "author": "Mihraç Comart",
+  "version": "1.0.0",
+  "default": "index.html",
+  "scripts": {},
+  "license": "ISC"
+}
